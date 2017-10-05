@@ -1,0 +1,8 @@
+yosi:3
+avraham:5
+avi:-1
+gidi:6
+client2:1
+ido:0
+client9:9
+client6:4
